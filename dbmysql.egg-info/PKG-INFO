@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: dbmysql
+Version: 1.0.5
+Summary: Un package Python pour gérer les interactions avec une base de données MySQL
+Home-page: https://github.com/Sofivne/dbmysql
+Author: Sofivne
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: mysql-connector-python
+Requires-Dist: python-dotenv
